@@ -10,7 +10,7 @@ A simple note app. This project helps to explain how to hook up a Spring project
 - Postman for the API calls
 - An IDE to run the app and edit the `application.properties` file in `src/main/resources`
 
-In application.properties, change the `<VARIABLES>` with the correct values. You can create a free cluster with an account at cloud.mongodb.com
+In application.properties, change the `<VARIABLES>` with the correct values. You can create a free cluster with an account at https://www.mongodb.com/cloud/atlas
 
 ```
 spring.data.mongodb.database=<DATABASE NAME>
